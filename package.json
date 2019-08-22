@@ -1,0 +1,7 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rhafacaldas/video-maker.git",
+  "license": "MIT"
+}
