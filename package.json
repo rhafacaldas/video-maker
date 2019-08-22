@@ -1,0 +1,11 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rhafacaldas/video-maker.git",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^6.2.1",
+    "readline-sync": "^1.4.10"
+  }
+}
